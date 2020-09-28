@@ -45,18 +45,28 @@
 
 20. Go to "File > Settings" and click "Hotkeys" in the sidebar to change the keyboard hotkeys
 
-
 Default Hotkeys for Podcast Template
 
 Host 1 Box	-	F1
+
 2 Box		-	F2
+
 Guest 1 Box	-	F3
+
 Stats		-	F4
+
 Graphic		-	F5
+
 Host Insert	-	F6
+
 Guest Insert	-	F7
+
 Title Page	-	F8
+
 Lower 3rd 	-	F9
+
 Contact Info 	-	F10
+
 Next Graphic	-	=
+
 Previous Graphic-	-
